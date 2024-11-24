@@ -1,0 +1,104 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "email": "user1@example.com",
+      "password": "password1",
+      "userName": "user1",
+      "name": "John",
+      "lastName": "Doe",
+      "avatar": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "email": "user2@example.com",
+      "password": "password2",
+      "userName": "user2",
+      "name": "Jane",
+      "lastName": "Smith",
+      "avatar": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "3",
+      "email": "user3@example.com",
+      "password": "password3",
+      "userName": "user3",
+      "name": "Alice",
+      "lastName": "Johnson",
+      "avatar": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "4",
+      "email": "user4@example.com",
+      "password": "password4",
+      "userName": "user4",
+      "name": "Bob",
+      "lastName": "Brown",
+      "avatar": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "5",
+      "email": "user5@example.com",
+      "password": "password5",
+      "userName": "user5",
+      "name": "Emily E",
+      "lastName": "Dale",
+      "FechaDenacimiento": "1994-05-05"
+    },
+    {
+      "id": "6",
+      "email": "user6@example.com",
+      "password": "password6",
+      "userName": "user6",
+      "name": "Michael",
+      "lastName": "Wilson",
+      "avatar": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "7",
+      "email": "user7@example.com",
+      "password": "password7",
+      "userName": "user7",
+      "name": "Sarah",
+      "lastName": "Martinez",
+      "avatar": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "8",
+      "email": "user8@example.com",
+      "password": "password8",
+      "userName": "user8",
+      "name": "David",
+      "lastName": "Taylor",
+      "avatar": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "9",
+      "email": "user9@example.com",
+      "password": "password9",
+      "userName": "user9",
+      "name": "Olivia",
+      "lastName": "Anderson",
+      "avatar": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "10",
+      "email": "user10@example.com",
+      "password": "password10",
+      "userName": "user10",
+      "name": "James",
+      "lastName": "Thomas",
+      "avatar": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "11",
+      "email": "yorkjahf@gmail.com",
+      "password": "12345",
+      "name": "jorge",
+      "userName": "jorgeagfgf123",
+      "lastName": "Hernández",
+      "avatar": "https://via.placeholder.com/150"
+    }
+  ],
+  "historys": []
+}

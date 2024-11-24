@@ -1,0 +1,86 @@
+/* src/Components/Odontogram/Odontogram.css */
+.odontogram {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F5F5F5;
+    opacity: 1;
+    position: sticky;
+    top: 0; /* Ajustar según sea necesario */
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+  
+  .legend-item {
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .legend-item .status {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+  }
+  
+  .resin {
+    background-color: green;
+  }
+  
+  .amalgama {
+    background-color: blue;
+  }
+  
+  .endodoncia {
+    background-color: red;
+  }
+  
+  .sellante {
+    background-color: purple;
+  }
+  
+  .erosion {
+    background-color: orange;
+  }
+  
+  .corona {
+    background-color: gold;
+  }
+  
+  .teeth-grid {
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 10px;
+  }
+  
+  .tooth {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 8px;
+    transition: transform 0.2s;
+  }
+  
+  .tooth:hover {
+    transform: scale(1.05);
+  }
+  
+  .tooth-number {
+    font-weight: bold;
+  }
+  
+  .tooth-status .status {
+    width: 20px;
+    height: 20px;
+    margin-top: 5px;
+  }
+  
